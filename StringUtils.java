@@ -1,2 +1,1 @@
-This File Contains The String Relation Function
-
+This File Contains The String Related Function
